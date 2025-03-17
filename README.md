@@ -29,4 +29,5 @@ This project aims to design the best possible investment strategy for a set of f
 1. Install required dependencies:
    ```bash
    pip install numpy pandas scipy tensorflow pulp
-
+##  ** Disclaimer **
+It is an old project and the quality of code is not actual
